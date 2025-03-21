@@ -1,9 +1,12 @@
 <h2 align="left">Hi 👋! My name is Tianyi Jiang and I'm a PhD student, from Tongji University.</h2>
 
+My research focuses on the LLM and NLP.
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AusertDream.AusertDream&"  />
+  <a href="https://ausertdream.github.io/"><img src="https://img.shields.io/badge/Blog-ausertdream-orange?logo=blogger" alt="Blog" title="Blog" /></a>
+  <a href="https://space.bilibili.com/102368527"><img src="https://img.shields.io/badge/哔哩哔哩-梦哥大可爱-blue?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
 </div>
 
 ###
@@ -14,8 +17,12 @@
 </div>
 
 ###
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AusertDream&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph" />
 
-<div align="left">
+### 
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -37,14 +44,9 @@
   <a href="AusertDreamdream@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img align="right" height="150" src="https://github.com/AusertDream/MyblogImags/raw/main/avatar.jpg"  />
 </div>
 
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AusertDream/AusertDream/output/snake.svg" alt="Snake animation" />
 
 ###
