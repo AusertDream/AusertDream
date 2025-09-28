@@ -6,7 +6,7 @@ My research focuses on the LLM and NLP.
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AusertDream.AusertDream&"  />
   <a href="https://ausertdream.github.io/"><img src="https://img.shields.io/badge/Blog-ausertdream-orange?logo=blogger" alt="Blog" title="Blog" /></a>
-  <a href="https://space.bilibili.com/102368527"><img src="https://img.shields.io/badge/哔哩哔哩-梦哥大可爱-blue?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+  <a href="https://space.bilibili.com/102368527"><img src="https://img.shields.io/badge/哔哩哔哩-梦哥Ausert-blue?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
 </div>
 
 ###
