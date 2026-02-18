@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Tianyi Jiang and I'm a PhD student, from Tongji University.</h2>
 
-My research focuses on the LLM and NLP.
+My research focuses on the multi-modal LLM and NLP.
 ###
 
 <div align="center">
@@ -40,11 +40,7 @@ My research focuses on the LLM and NLP.
 
 ###
 
-<div align="center">
-  <a href="contact.md" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+Contact me: tianyijiang@tongji.edu.cn or ausertdream@gmail.com
 
 
 ###
